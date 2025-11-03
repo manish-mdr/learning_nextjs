@@ -1,5 +1,5 @@
 import Link from "next/link";
-import ComponentPage from "../../_components/page";
+import ComponentPage from "../../components/page";
 
 export const metadata = {
   title: {
